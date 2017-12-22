@@ -1,0 +1,8 @@
+br\com\project\rest\util\SendEmail.class
+br\com\project\rest\model\Aluno.class
+br\com\project\rest\ProjetoRestApplication.class
+br\com\project\rest\services\AlunoService.class
+br\com\project\rest\model\MalaDireta.class
+br\com\project\rest\model\Notas.class
+br\com\project\rest\services\AlunoServiceImpl.class
+br\com\project\rest\resource\AlunoResource.class
