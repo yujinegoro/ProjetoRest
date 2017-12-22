@@ -3,6 +3,7 @@
 Tecnlogias utilizadas:
 
 - Eclipse Java EE IDE for Web Developers - Version: Oxygen.2 Release (4.7.2);
+- Java 8(jdk 1.8.0_73)
 - Plug in Spring Tools ( https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite )
 - Postman App(https://www.getpostman.com/)
 
